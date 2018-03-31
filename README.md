@@ -3,11 +3,11 @@ Simple script to generate a graphical representation of a traceroute
 
 # Output Examples
 
-![Netflix](/images/netflix.com.jpg)
+![Netflix](/examples/netflix.com.jpg)
 
-![Google](/images/google.ca.jpg)
+![Google](/examples/google.ca.jpg)
 
-![JPRS](/images/jprs.co.jp.jpg)
+![JPRS](/examples/jprs.co.jp.jpg)
 
 # Usage
 
